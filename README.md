@@ -1,1 +1,2 @@
 # sds271_final_project
+We made a package that reads data and returns existing and advanced sports statistics from teams and players. Our package’s focus is on returning certain statistics based on what a user inputs in their chosen function. We want to be able to return team and individual player statistics separately based on user input, and the specific statistic(s) the user chooses should either be ones already present in our datasets or calculated based on preexisting values from the datasets.
